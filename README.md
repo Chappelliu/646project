@@ -16,5 +16,5 @@ python LP_OCR.py
 ```sh
 python OCR_model.py
 python OCR_training.py
-```sh
+```
 
